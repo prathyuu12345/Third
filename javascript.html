@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>LOGIN</h1>
+Name : <input type="text" id="myText" placeholder="username"><br><br>
+password : <input type="password" id="pass" placeholder="password"><br><br>
+<button onclick="myFunction()">Submit</button>
+
+<script>
+function myFunction() {
+  var x=document.getElementById("myText").value;
+  var y=document.getElementById("pass").value;
+  if(y=="12345"){
+  	document.write("you have successfully logged in");
+  }
+  else{
+  	document.write("verify your username and Password");
+
+  }
+}
+</script>
+
+</body>
+</html>
