@@ -1,0 +1,6 @@
+In Computational Linguistics labs we have experiment called  forming sentences.In the start we have 6 links which are Introduction,Theorey,Objective,Experiment,Quizzes and Procedure.
+Next when we click on the experiment we need to direct to a page which contains these functionalities. In the begining we need to select a laguage which requies a drop down box to select.
+And next when we select language some text is to be displayed, which says form a sentence with some words buttons.when we click on one button then it has to be removed from that random buttons and form a new sentence below it and for next word we select it also has to be removed from the first sentence and should add to sequence of second sentence this process has to be done till the completion of all word buttons then we have two buttons with reform the sentence and check correctness of sentence .
+When we click on reform the sentence then it should display the same words as before we selected that is simply reset it.
+but When we click on check correctness of sentence it should display whether it is right answer or wrong answer.
+These are the functionalities present in the experiment.
